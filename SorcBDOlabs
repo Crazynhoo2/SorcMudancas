@@ -1,0 +1,101 @@
+Debuffs agarrar, derrubada/imobilização empurrão/flutuação, atordoamento/rigidez/Congelamento.
+Awakening
+• Flow: Rushing Crow foi modificado:
+  - Guarda frontal adicionada. 
+  - Imobilização removido no acerto.
+• Flow: Revived Nightmare foi modificado:
+  - Fragment of Darkness teve o custo removido
+  - Foi assimilado na skill Cartian's Nightmare
+  - O commando foi modificado para: barra de espaço → Shift+E
+• Cartian's Nightmare foi modificado:
+  - Foi adicionado os comandos A+RMB e D+LMB para se mover enquanto casta.
+  - Consome Shard of Darknes x1 por uso, e pode ser usada até 2 vezes, a skill vai continuar a sair após o movimento.
+• Soul Harvest foi modificado:
+  - O commando foi modificado para: barra de espaço → Shift+Q
+  - CD foi aumentado de 3 to 7 segundos.
+  - Não pode ser utilizado durante CD
+  - Consumo de stamina foi reduzido de 100 para 50
+  - Dano ajustado para: 
+       - Hit Damage1008% x 2 → 1331% x 4
+       - Extra Hit Damage 1302% x 5 → 1420% x 5
+  - Foi adicionado na descrição a quantidade de dano reduzido no PVP.
+• Grim Reaper's Judgement foi modificado:
+  - Numero de hits maximo no PVP foi removido.
+  - Dano ajustado:
+  - Usa os Shards automaticamente para buff de AP total
+Grim Reaper Extra Charged Hit Damage 1950% x 6 → 1950% x 7
+• Shadow Leap teve o consumo de shards para aumento de todos AP removido.
+• Turn-back Slash I-III foi modificado para gerar mais shards of Darkness, x1 por acerto.
+   - No entanto isso não se aplica durante o cooldown.
+• Shards of Darkness é consumido e o aumento de todos AP é utilizado automaticamente no uso das skills:
+  - Grim Reaper's Judgement
+  - Violation
+• Cartian's Protection dano ajustado:
+  - Hit Damage 437% x 1 → 1337% x 3
+• Vile Plan dano ajustado:
+  - Hit Damage 382% x 6 → 1340% x 6
+  - Foi adicionado redução de dano no PvP
+• Turn-back Slash e Dead Hunt IV não tem mais número de acertos reduzidos no PvP.
+• Turn-back Slash foi melhorado para combar na skill Dead Hunt apartir do 2º movimento.
+• Flow: Night Crow foi removido e associado na habilidade Awakening: Cartian's Scythe
+  - CD removido.
+• Cartian's Nightmare foi modificado para continuar sendo usado enquanto as teclas SHIFT+E estiverem sendo pressionadas.
+  - Shards não serão mais consumidos durante o uso contínuo.
+
+Pre-Awakening
+
+• Shadow Eruption foi melhorado para combar com as outras skills mais suavemente.
+• Black Wave: I-Absolute teve sua area de ataque aumentada e fixada em todos os hits. 
+• Shadow Riot foi melhorada para aparecer nas costas de seu oponente no uso. has been improved so that will now move the character to an opponent's back
+• Shadow Kick o nivel requerido para pegar a skill foi modificado para level 1.
+• As seguintes habilidades foram removidas:
+  - Scattering Shadow
+  - Low Kick
+  - Sinister Shadow I-III
+• As seguintes skills foram associadas e a skill secundaria foi removida pois seu efeito foi movido para a primária:
+  - Midnight Stinger III + Guilty Conscience (Removida)
+  - Dark Trade I-III + Shield of Darkness (Removida)
+  - Shadow Kick + High Kick (Removida)
+  - Absolute: Midnight Stinger, Prime: Midnight Stinger + Eruption of Guilt (Removida)
+  - Dark Split + Sharp Nails I-Absolute (Removida)
+• Shadow Eruption: I-Absolute vai aumentar a Precisão Magica em 6% por 10% no uso. (efeito da antiga skill scaterring shadow)
+• Ultimate: Midnight Stinger foi modificada para não cancelar a skill Dream of Doom enquanto ela carrega; Dream of Doom sairá automaticamente em vez de cancelar.
+• Dream of Doom foi modificado para que o a animação tenha o mesmo tamanho que a área de ataque real.
+• Dream of Doom e Imminent Doom tiveram seus comandos modificados:
+  - LMB → LMB ou RMB após o carregamento completo.
+• Imminent Doom CD foi reduzido de 24 para 18 segundos.
+• Dark Trade I-III o efeito de todas as defesas(DP) foi aumentado.
+  - Dark Trade I: +5 → +9 DP
+  - Dark Trade II: +9 → +15 DP
+  - Dark Trade III: +13 → +20 DP 
+• Absolute: Bloody Calamity o CD foi reduzido de 30 para 20 segundos.
+• Claws of Darkness o comando foi modificado para :
+  -  S+LMB → W+LMB
+• Dark Flame foi melhorado para que você não precise utilizer Claws of Darkness primeiro. 
+• Night Crow foi melhorada para que tenha invencibilidade quando utilizada no meio do ar. 
+  - No entendo, esse efeito não ocorre quando você pula de uma grande altura ou várias vezes no ar.
+• Mark of the Shadow I-Absolute foi melhorada (Agradeçam os jogadores coreanos.):  
+- Area de ataque aumentada.  
+- Guarda frontal foi adicionada ao inicio da skill. Forward Guard has been added to the start of the skill
+• Dark Backstep agora possui Guarda Frontal.
+• Signs of Agony I-Absolute foi melhorado:
+  - A velocidade de ativação foi aumentada.
+  - A velocidade do projetil foi aumentada. 
+  - A velocidade do projetil é a mesma em todos os niveis.
+• Shadow Riot foi modificado:
+  - Esmagamento foi modificado para Derrubada. Air Smash changed to Knockdown
+  - Dano ajustado de 622% x 1 por Shard → 622% x 4 por Shard
+  - Recuperação de MP por Shard foi removido. MP Recovery per Shard has been removed
+  - Aumento de precisão +9% foi adicionada. Accuracy Rate +9% has been added
+  - CD foi reduzido de 10 para 4 segundos. Cooldown reduced from 10 to 4 seconds
+  - Ativada automaticamente quando pressionado F após acertar o Shadow Kick. Automatically activated when hitting with Shadow Kick → F upon hitting with Shadow Kick
+• Shadow Kick foi melhorada:
+  - CD reduzido de 5 para 4 segundos.
+  - Precisão de acerto +3% foi adicionada.
+• Foi adicionado flutuação no 1º hit nas seguintes habilidades: 
+  - Black Wave I-Absolute
+  - Prime: Black Wave I-III
+• Darkness Released movimento frontal teve sua distância aumentada. 
+  - Entretando o movimento frontal será o antigo se a skill for utilizada em CD.
+  - Ajeitado o problema aonde o boneco parava ao acertar um alvo com o movimento frontal.
+• Ultimate: Shadow Eruption CD foi reduzido de 20 para 12 segundos.
